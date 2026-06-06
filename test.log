@@ -1,0 +1,4 @@
+INFO:root:This is a normal Info about the software
+ERROR:root:This is the error message
+WARNING:root:This is a warning
+CRITICAL:root:This is a critical message
